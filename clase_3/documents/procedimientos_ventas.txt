@@ -1,0 +1,62 @@
+Procedimientos de Ventas y Atención al Cliente
+
+Flujo de Ventas
+1. Identificación de Oportunidad
+   - Calificar el lead utilizando el criterio BANT (Budget, Authority, Need, Timeline).
+   - Registrar toda la información en el CRM.
+   - Asignar prioridad según potencial de ingresos.
+
+2. Presentación de Solución
+   - Preparar propuesta personalizada según necesidades del cliente.
+   - Incluir caso de negocio con ROI claro.
+   - Presentar a stakeholders clave.
+   - Demostración de producto en vivo o grabación.
+
+3. Negociación
+   - Discutir términos comerciales: precio, plazos, condiciones de pago.
+   - Ofrecer descuentos por volumen o pago adelantado.
+   - Gestionar objeciones con argumentos basados en valor.
+   - Involucrar a gerencia para aprobaciones especiales.
+
+4. Cierre
+   - Enviar contrato para firma.
+   - Coordinar proceso de onboarding.
+   - Confirmar recepción de primer pago.
+   - Activar licencia o servicio.
+
+5. Post-Venta
+   - Realizar llamada de seguimiento a los 30 días.
+   - Enviar encuesta de satisfacción.
+   - Identificar oportunidades de upsell/cross-sell.
+   - Registrar feedback para mejora continua.
+
+Atención al Cliente
+- Respuesta inicial en menos de 2 horas durante horario laboral.
+- Resolución de incidentes críticos en menos de 4 horas.
+- Portafolio de productos debe actualizarse trimestralmente.
+- Base de conocimiento disponible para clientes con más de 500 artículos.
+- Sistema de tickets con priorización automática.
+
+Soporte Técnico
+Nivel 1: Resuelve consultas básicas y problemas comunes.
+Nivel 2: Especialistas técnicos para problemas complejos.
+Nivel 3: Desarrolladores para bugs y personalizaciones.
+
+SLA de Soporte:
+- Nivel 1: Respuesta en 1 hora, resolución en 24 horas.
+- Nivel 2: Respuesta en 4 horas, resolución en 5 días laborables.
+- Nivel 3: Respuesta en 24 horas, resolución negociada.
+
+Métricas de Ventas
+- Tasa de conversión: Objetivo 25% de leads a clientes.
+- Ticket medio: Objetivo de 50,000 euros.
+- Ciclo de ventas: Reducir de 45 a 30 días.
+- Satisfacción del cliente: Mantener NPS por encima de 60.
+- Retención: Objetivo de 90% anual.
+
+Herramientas
+- CRM: Salesforce para gestión de clientes.
+- ERP: SAP para gestión financiera y operativa.
+- Chat: Intercom para soporte en tiempo real.
+- Analítica: Tableau para reporting y dashboards.
+- Automatización: Zapier para integración de sistemas.

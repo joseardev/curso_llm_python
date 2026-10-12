@@ -1,0 +1,44 @@
+Guía de Seguridad IT para Empresas
+
+Introducción
+La seguridad de la información es fundamental para cualquier organización en la era digital. Este documento establece las políticas y procedimientos básicos para proteger los activos de información de la empresa.
+
+Políticas de Contraseñas
+- Todas las contraseñas deben tener una longitud mínima de 12 caracteres.
+- Deben incluir mayúsculas, minúsculas, números y caracteres especiales.
+- Las contraseñas deben rotarse cada 90 días.
+- No se deben reutilizar las últimas 5 contraseñas.
+- Utilizar autenticación multifactor (MFA) para todos los sistemas críticos.
+
+Protección de Red
+- Implementar firewalls en todos los puntos de entrada a la red.
+- Configurar segmentación de red para aislar sistemas críticos.
+- Mantener actualizados todos los dispositivos de red con los últimos parches de seguridad.
+- Utilizar VPN para el acceso remoto con cifrado fuerte.
+
+Seguridad de Endpoints
+- Todos los dispositivos deben tener software antivirus actualizado.
+- Configurar actualizaciones automáticas para sistemas operativos y aplicaciones.
+- Deshabilitar puertos USB no autorizados.
+- Implementar solución EDR (Endpoint Detection and Response) en todos los endpoints.
+
+Protección de Datos
+- Cifrar todos los datos sensibles en tránsito y en reposo.
+- Realizar copias de seguridad diarias con almacenamiento externo.
+- Implementar clasificación de datos para identificar información sensible.
+- Aplicar el principio de mínimo privilegio para el acceso a datos.
+
+Respuesta a Incidentes
+- Establecer un equipo de respuesta a incidentes (CERT/CSIRT).
+- Definir procedimientos claros para reportar incidentes de seguridad.
+- Realizar pruebas de respuesta a incidentes al menos dos veces al año.
+- Mantener registro de todos los incidentes de seguridad.
+
+Formación y Concienciación
+- Realizar formación obligatoria en seguridad IT para todos los empleados.
+- Enviar recordatorios mensuales sobre buenas prácticas de seguridad.
+- Implementar programa de phishing simulation trimestral.
+- Recompensar a los empleados que reporten amenazas de seguridad.
+
+Conclusión
+La seguridad IT es responsabilidad de todos en la organización. La implementación consistente de estas políticas ayudará a proteger los activos de información críticos de la empresa.
